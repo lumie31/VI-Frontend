@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d5a689f-f556-4b5b-838f-1659a140e3cd/deploy-status)](https://app.netlify.com/sites/vi-frontend/deploys)
+
 # VI Frontend
 
 A live copy of the project can be viewed here: https://vi-frontend.netlify.app
